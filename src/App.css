@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.user-list-table{
+  width: 60vw;
+  margin: 0 auto;
+}
+
+.create-new-user{
+  width: 60vw;
+  margin: 0 auto;
+}
